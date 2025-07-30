@@ -1,5 +1,7 @@
 
-# EvozonInternship
+Acesta este file-ul meu nou
+si acum am scris cod in pasul 17
 
-this is a test readme file created in the readme branch
+
+
 
